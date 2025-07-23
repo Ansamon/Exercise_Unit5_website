@@ -1,0 +1,6 @@
+# Archivos del sistema
+.DS_Store
+
+# Configuración de editores
+.vscode/
+*.log
