@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+* {
+    font-family: 'Pacifico', Arial, sans-serif;
+    background-color: rgb(233, 238, 231);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+p {
+    color: red
+}
+
+footer p {
+    font-family:'Courier New', Courier, monospace;
+    color: green;
+}
